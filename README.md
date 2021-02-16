@@ -20,3 +20,6 @@ If you would to add customizable information text in your shell prompt when you 
 ```
 pod install
 ```
+
+# Summary image
+![](https://github.com/KevinJohann/pod_rb_config/blob/master/READMEimages/Screen%20Shot%202021-02-16%20at%2001.04.47.png?raw=true)
