@@ -13,7 +13,7 @@ If you would to add customizable information text in your shell prompt when you 
 
 # How to test?
 
-- Clone project in local.
+- Clone the project.
 - Open your terminal and go to the root project.
 - Type the next:
 
